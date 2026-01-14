@@ -1,30 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">
-My name is Rahul Gaikwad and I'm a QA & Automation Engineer from Pune, India.
-</p>
+<!-- Animated Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=false&vCenter=true&width=700&height=60&color=00C2FF&lines=Hey+👋+I'm+Rahul+Gaikwad;QA+%26+Automation+Engineer;Selenium+%7C+Playwright+%7C+API+Testing;Building+scalable+test+frameworks)](https://git.io/typing-svg)
 
 ---
 
-<h2 align="left">About me</h2>
+## 🚀 About Me
 
-<p align="left">
-✨ Creating test scripts & breaking apps since 2022 <br>
-📚 Experienced in building advanced Automation Frameworks & performing robust API Testing
-🎯 Goals: Transition into senior QA/Automation roles and contribute open-source testing projects 
-🎲 Fun fact: I enjoy finding bugs faster than developers can fix them 😄
-</p>
+- ✨ QA & Automation Engineer with 3+ years in BFSI (TCS)
+- 🛠️ Specialized in Automation Frameworks, API Testing, and CI/CD pipelines
+- 🏆 Certified: ISTQB, AWS Cloud Practitioner, Full Stack Automation (GrowSkill IT)
+- 🎯 Goal: Deliver scalable, high‑quality test solutions & contribute to open‑source QA projects
+- 🎲 Fun fact: I enjoy finding bugs faster than developers can fix them 😄
 
 ---
 
-<h2 align="left">I work with</h2>
+## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo" />
-  <img width="12" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-gaikwad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rahul-gaikwad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rahulg1483@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
